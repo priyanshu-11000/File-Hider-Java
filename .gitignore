@@ -1,0 +1,4 @@
+# This is .gitignore file.
+/.idea
+/target/classes
+/target/generated-sources\annotation
